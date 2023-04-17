@@ -1,0 +1,18 @@
+.addBox {
+  width: 100%;
+  
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 5%;
+}
+input{
+    width: 90%;
+    height: 30px;
+    outline: none;
+    padding-left: 10px;
+}
+button{
+    height: 34px;
+}

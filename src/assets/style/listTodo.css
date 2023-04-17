@@ -1,0 +1,11 @@
+.listbar {
+  width: 80%;
+  padding: 1rem 6%;
+  margin: auto;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
